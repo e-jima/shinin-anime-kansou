@@ -33,3 +33,6 @@
 
 # emacs tmp file
 *~
+
+# OS X dir file
+.DS_Store
